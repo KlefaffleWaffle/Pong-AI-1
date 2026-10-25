@@ -3,6 +3,7 @@ An exercise in rebuilding the classic arcade game Pong to experiment with AI opp
 
 If time allows additional variants of the Pong game may be added. 
 Variants like:
+
 Practice Mode A: Player controls both paddles simultaneously. Meant for beginners or people learning the controls.
 Practice Mode B: The computer will always rally. And hit the ball near center. Good for practicing aiming.
 Practice Mode C: Aim Assist. Current Ball Trajectory will show you how the ball will bounce off of the paddle.
